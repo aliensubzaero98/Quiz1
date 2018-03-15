@@ -1,0 +1,7 @@
+C:\Users\Dvies\source\repos\GestorNevera\GestorNevera.Web\obj\Debug\netcoreapp2.0\GestorNevera.Web.csprojResolveAssemblyReference.cache
+C:\Users\Dvies\source\repos\GestorNevera\GestorNevera.Web\obj\Debug\netcoreapp2.0\GestorNevera.Web.csproj.CoreCompileInputs.cache
+C:\Users\Dvies\source\repos\GestorNevera\GestorNevera.Web\obj\Debug\netcoreapp2.0\GestorNevera.Web.AssemblyInfoInputs.cache
+C:\Users\Dvies\source\repos\GestorNevera\GestorNevera.Web\obj\Debug\netcoreapp2.0\GestorNevera.Web.AssemblyInfo.cs
+C:\Users\Dvies\source\repos\GestorNevera\GestorNevera.Web\bin\Debug\netcoreapp2.0\GestorNevera.DataAccess.dll
+C:\Users\Dvies\source\repos\GestorNevera\GestorNevera.Web\bin\Debug\netcoreapp2.0\GestorNevera.Models.dll
+C:\Users\Dvies\source\repos\GestorNevera\GestorNevera.Web\bin\Debug\netcoreapp2.0\GestorNevera.Models.pdb

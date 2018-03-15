@@ -1,0 +1,6 @@
+C:\Users\Dvies\source\repos\GestorNevera\GestorNevera.DataAccess\bin\Debug\netstandard1.6\GestorNevera.DataAccess.deps.json
+C:\Users\Dvies\source\repos\GestorNevera\GestorNevera.DataAccess\bin\Debug\netstandard1.6\GestorNevera.DataAccess.dll
+C:\Users\Dvies\source\repos\GestorNevera\GestorNevera.DataAccess\obj\Debug\netstandard1.6\GestorNevera.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Dvies\source\repos\GestorNevera\GestorNevera.DataAccess\obj\Debug\netstandard1.6\GestorNevera.DataAccess.AssemblyInfo.cs
+C:\Users\Dvies\source\repos\GestorNevera\GestorNevera.DataAccess\obj\Debug\netstandard1.6\GestorNevera.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Dvies\source\repos\GestorNevera\GestorNevera.DataAccess\obj\Debug\netstandard1.6\GestorNevera.DataAccess.AssemblyInfoInputs.cache

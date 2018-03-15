@@ -1,0 +1,9 @@
+C:\Users\Dvies\source\repos\GestorNevera\GestorNevera.Models\bin\Debug\netstandard1.6\GestorNevera.Models.deps.json
+C:\Users\Dvies\source\repos\GestorNevera\GestorNevera.Models\obj\Debug\netstandard1.6\GestorNevera.Models.csproj.CoreCompileInputs.cache
+C:\Users\Dvies\source\repos\GestorNevera\GestorNevera.Models\obj\Debug\netstandard1.6\GestorNevera.Models.AssemblyInfo.cs
+C:\Users\Dvies\source\repos\GestorNevera\GestorNevera.Models\bin\Debug\netstandard1.6\GestorNevera.Models.dll
+C:\Users\Dvies\source\repos\GestorNevera\GestorNevera.Models\bin\Debug\netstandard1.6\GestorNevera.Models.pdb
+C:\Users\Dvies\source\repos\GestorNevera\GestorNevera.Models\obj\Debug\netstandard1.6\GestorNevera.Models.csprojResolveAssemblyReference.cache
+C:\Users\Dvies\source\repos\GestorNevera\GestorNevera.Models\obj\Debug\netstandard1.6\GestorNevera.Models.dll
+C:\Users\Dvies\source\repos\GestorNevera\GestorNevera.Models\obj\Debug\netstandard1.6\GestorNevera.Models.pdb
+C:\Users\Dvies\source\repos\GestorNevera\GestorNevera.Models\obj\Debug\netstandard1.6\GestorNevera.Models.AssemblyInfoInputs.cache
